@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ede12783699e4bfa75f982ad",
+  "owner": "bnkbyvcv",
+  "repo": "page-09cf733745e043b6e23e7378",
+  "title": "波瑠卡",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "09cf733745e043b6e23e7378",
+      "a": "波瑠卡",
+      "b": "2027官方最新地址导航",
+      "entity": "波瑠卡",
+      "brand": "波瑠卡",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bf207cf8d45ec8651bf869e4d0915b16db3584f53bca8640a4f6c4927f7ac10e",
+      "content": {
+        "primary_entity": "波瑠卡",
+        "keyword1": "波瑠卡",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，依文档导入订阅。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐，连上波瑠卡，开始顺畅访问。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，波瑠卡提供基础版、旗舰版、团队版三档订阅，月流量从 100GB 到 1000GB，同时在线设备从 3 台到 20 台，按年付可节省两个月费用。旗舰版加入 IPLC 专线游戏加速优化，团队版支持企业定制路由。根据日常流量、设备数量和使用场景对比套餐，再于对应客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备和周期三个角度对比套餐，选到适合的订阅。",
+          "AI_FEATURES_TITLE": "订阅权益与选择要点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15 含 100GB 与 3 台设备，适合轻度浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35 含 300GB，5 台设备并支持 IPLC 专线优化。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85 含 1000GB，20 台设备与专属高带宽节点。",
+          "AI_FEATURE_TITLE_1": "入门流量够用",
+          "AI_FEATURE_TITLE_2": "进阶设备与专线",
+          "AI_FEATURE_TITLE_3": "团队高带宽",
+          "AI_GUIDE_INTRO": "从套餐到客户端，三步完成波瑠卡订阅接入。",
+          "AI_GUIDE_TITLE": "订阅接入三步",
+          "AI_HERO_INTRO": "波瑠卡为个人与团队提供海外加速订阅，三档套餐覆盖 100GB 至 1000GB 月流量，支持 3 至 20 台设备在线。旗舰版包含 IPLC 专线游戏加速优化，团队版可定制企业路由。按设备安装客户端并导入订阅后即可使用。",
+          "AI_HERO_SUBTITLE": "波瑠卡加速订阅，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队",
+          "AI_HIGHLIGHT_2": "年付享两个月费用节省",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别为 ¥150、¥350、¥850，从流量和设备数对比即可。",
+          "AI_PLANS_TITLE": "套餐横向对比",
+          "AI_STEP_TEXT_1": "根据月流量、同时在线设备数和预算，对比基础版、旗舰版与团队版。",
+          "AI_STEP_TEXT_2": "查看所选客户端对系统版本和网络环境的要求，确认设备兼容。",
+          "AI_STEP_TEXT_3": "按对应客户端的文档导入订阅，完成配置后开始使用波瑠卡加速。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "波瑠卡加速订阅",
+          "AI_FAQ_TITLE": "波瑠卡常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "波瑠卡的三档套餐分别适合哪些人？",
+          "AI_FAQ_ANSWER_1": "基础版适合每月流量需求较低、同时在线设备不超过 3 台的用户；旗舰版适合需要流媒体解锁或游戏加速、设备在 5 台以内的用户；团队版适合多设备或企业环境，支持 20 台设备与定制路由。",
+          "AI_FAQ_QUESTION_2": "如何根据设备数量选择套餐？",
+          "AI_FAQ_ANSWER_2": "先统计需要同时联网的设备数量。基础版支持 3 台，旗舰版 5 台，团队版 20 台。若手机、电脑、平板合计超过 5 台，可考虑团队版，避免同时在线受限。",
+          "AI_FAQ_QUESTION_3": "月付和年付的差别是什么？",
+          "AI_FAQ_ANSWER_3": "月付按月扣费，适合短期使用或先试用。年付一次性支付，折算后每月费用更低，例如基础版年付 150 元，旗舰版 350 元，团队版 850 元，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "订阅配置一般需要哪些步骤？",
+          "AI_FAQ_ANSWER_4": "先在所选设备上安装对应的客户端，再依照客户端文档导入订阅链接，选择节点后启用连接。不同客户端的导入入口不同，按文档操作即可完成。",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版在加速体验上有什么区别？",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，适合对延迟与解锁要求较高的个人用户。团队版提供 VIP 专属高带宽节点与企业定制路由，适合团队或企业多设备环境。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ez-carshare.cn",
+    "host": "ez-carshare.cn"
+  },
+  "file_hashes": {
+    "index.html": "ccf2be8e1eda31245196e8f9496ca2d9e2fc1e6acb79cfd924c4922c08d00047",
+    "sitemap.xml": "6b447d02027683a0c1ff478746428505c30f262b72b5d6454a48950cb19014ad",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "499b6827fad32b5e24ac186470706f9b48ec9007e25684df8de90391d22da23d",
+    "robots.txt": "9f9d0678259aa4f6f20120e128f5817f15ce0893d5e8cc4af3125c9cd82da028",
+    "936195263778daf0e87b37f0d91f38cd.txt": "26023a7c227a2ee44b8ba724705f2883dde9c88af9d8dd203079ea8360d432b7"
+  },
+  "revision": "768b4a18338e69b133a1c1d8eaaa3328d95b002bf5eb3f99a46c0a1279e87e13"
+}
